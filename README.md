@@ -100,7 +100,7 @@
         <h2>Join the Community</h2>
         <p>Connect with fellow quantum enthusiasts:</p>
         <ul>
-            <li>X: https://x.com/schrodiverse?s=21>
+            <li>X: @Schrodiverse</li>
         </ul>
     </section>
 
