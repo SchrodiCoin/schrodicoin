@@ -1,1 +1,0 @@
-SchrodiCoin1.html
