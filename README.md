@@ -99,10 +99,9 @@
         <h2>Join the Community</h2>
         <p>Connect with fellow quantum enthusiasts:</p>
         <ul>
-            <li>X: @SchrodiCoin</li>
-            <li>Telegram: t.me/SchrodiCoin</li>
-            <li>Discord: discord.gg/SchrodiCoin</li>
-        </ul>
+            <li>X: @Schrodiverse</li>
+            <li>Telegram: t.me/SCHROD COMMUNITY</li>
+            </ul>
     </section>
 
     <footer>
